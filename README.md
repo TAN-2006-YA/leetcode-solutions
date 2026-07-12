@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TAN-2006-YA/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0033-search-in-rotated-sorted-array](https://github.com/TAN-2006-YA/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/TAN-2006-YA/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/TAN-2006-YA/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/TAN-2006-YA/leetcode-solutions/tree/master/0169-majority-element) |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/TAN-2006-YA/leetcode-solutions/tree/master/0169-majority-element) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/TAN-2006-YA/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
