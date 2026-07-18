@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/TAN-2006-YA/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/TAN-2006-YA/leetcode-solutions/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/TAN-2006-YA/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/TAN-2006-YA/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -48,4 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/TAN-2006-YA/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+## Math
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/TAN-2006-YA/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/TAN-2006-YA/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
