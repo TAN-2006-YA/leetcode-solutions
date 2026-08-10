@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/TAN-2006-YA/leetcode-solutions/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/TAN-2006-YA/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/TAN-2006-YA/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0485-max-consecutive-ones](https://github.com/TAN-2006-YA/leetcode-solutions/tree/master/0485-max-consecutive-ones) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/TAN-2006-YA/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Two Pointers
 |  |
